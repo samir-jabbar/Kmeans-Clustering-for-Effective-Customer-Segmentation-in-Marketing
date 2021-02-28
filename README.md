@@ -3,5 +3,3 @@ In the commercial market, several companies generate a significant amount of dat
 • Recognize the best customers. 
 • Identify our loyal customers. 
 • Know which customers are about to unsubscribe. 
-• When and how to develop new products. 
-• The right time to run ads and promotions
