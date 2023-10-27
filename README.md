@@ -1,6 +1,6 @@
 # Customer Segmentation Dashboard
 
-![Customer Segmentation Dashboard](https://github.com/yourusername/repo/raw/main/dashboard.png)
+![Customer Segmentation ML]([https://github.com/yourusername/repo/raw/main/dashboard.png](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/R-project-customer-segmentation.png))
 
 ## Introduction
 
